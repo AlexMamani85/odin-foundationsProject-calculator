@@ -7,7 +7,7 @@
 .form{
     margin: 10px;
 }
-.display{
+#display{
     width: calc(100% - 10px);
     height: 3rem;
     border: 1px blue solid;
@@ -45,7 +45,7 @@
     background-color: blue;
 }
 .operacion{
-    background-color: lightslategray;
+    background-color: lightgrey;
 
 }
 .resultado{
