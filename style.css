@@ -1,0 +1,54 @@
+.formContainer{
+    width: 350px;
+    border: 1px red solid;
+    margin: 200px auto;
+    gap: 5px;
+}
+.form{
+    margin: 10px;
+}
+.display{
+    width: calc(100% - 10px);
+    height: 3rem;
+    border: 1px blue solid;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+
+.halfLineButton{
+    width: calc(50% - 5px);
+    border: 1px green solid;
+    border-radius: 5px;
+    height: 2rem;
+
+    margin-bottom: 5px;
+}
+
+.quarterLineButton{
+    width: calc(25% - 5px);
+    border: 1px green solid;
+    border-radius: 5px;
+
+    height: 2rem;
+
+    margin-bottom: 5px;
+}
+
+
+#clear{
+    background-color: red;
+
+}
+
+#back{
+    background-color: blue;
+}
+.operacion{
+    background-color: lightslategray;
+
+}
+.resultado{
+    background-color: green;
+
+}
